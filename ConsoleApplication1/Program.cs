@@ -48,7 +48,7 @@ namespace ConsoleApplication1
                 int a = ReadInt();
                 Console.WriteLine("Квадрат числа равен " + (a * a));
             }
-            else
+            else // чтото поменял
             {
                 Console.WriteLine("Ошибка!" + Environment.NewLine + "Введите:" +
                     Environment.NewLine + "+ - сложение;" + Environment.NewLine + "- - вычитание;"
