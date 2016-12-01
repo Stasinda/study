@@ -1,0 +1,11 @@
+D:\Программирование\C#\Study\Projects\ConsoleApplication1\Calculator (switch)\bin\Debug\Calculator (switch).exe.config
+D:\Программирование\C#\Study\Projects\ConsoleApplication1\Calculator (switch)\bin\Debug\Calculator (switch).exe
+D:\Программирование\C#\Study\Projects\ConsoleApplication1\Calculator (switch)\bin\Debug\Calculator (switch).pdb
+D:\Программирование\C#\Study\Projects\ConsoleApplication1\Calculator (switch)\obj\Debug\Calculator (switch).exe
+D:\Программирование\C#\Study\Projects\ConsoleApplication1\Calculator (switch)\obj\Debug\Calculator (switch).pdb
+D:\Программирование\C#\Study\Projects\Study\Calculator (switch)\bin\Debug\Calculator (switch).exe.config
+D:\Программирование\C#\Study\Projects\Study\Calculator (switch)\obj\Debug\Calculator (switch).exe
+D:\Программирование\C#\Study\Projects\Study\Calculator (switch)\obj\Debug\Calculator (switch).pdb
+D:\Программирование\C#\Study\Projects\Study\Calculator (switch)\bin\Debug\Calculator (switch).exe
+D:\Программирование\C#\Study\Projects\Study\Calculator (switch)\bin\Debug\Calculator (switch).pdb
+D:\Программирование\C#\Study\Projects\Study\Calculator (switch)\obj\Debug\Calculator (switch).csprojResolveAssemblyReference.cache

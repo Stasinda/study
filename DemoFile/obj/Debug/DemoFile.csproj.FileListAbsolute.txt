@@ -1,0 +1,6 @@
+D:\Программирование\C#\Study\Projects\Study\DemoFile\bin\Debug\DemoFile.exe.config
+D:\Программирование\C#\Study\Projects\Study\DemoFile\bin\Debug\DemoFile.exe
+D:\Программирование\C#\Study\Projects\Study\DemoFile\bin\Debug\DemoFile.pdb
+D:\Программирование\C#\Study\Projects\Study\DemoFile\obj\Debug\DemoFile.csprojResolveAssemblyReference.cache
+D:\Программирование\C#\Study\Projects\Study\DemoFile\obj\Debug\DemoFile.exe
+D:\Программирование\C#\Study\Projects\Study\DemoFile\obj\Debug\DemoFile.pdb

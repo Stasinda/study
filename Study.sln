@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator (args)", "Calcul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoFile", "DemoFile\DemoFile.csproj", "{6C1CACB8-ACC9-47E4-AB44-628A8D1C4D74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllSymbolsASCII", "AllSymbolsASCII\AllSymbolsASCII.csproj", "{C6860F19-FA82-45EC-A1F7-5BFC2FC09061}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6C1CACB8-ACC9-47E4-AB44-628A8D1C4D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C1CACB8-ACC9-47E4-AB44-628A8D1C4D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C1CACB8-ACC9-47E4-AB44-628A8D1C4D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6860F19-FA82-45EC-A1F7-5BFC2FC09061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6860F19-FA82-45EC-A1F7-5BFC2FC09061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6860F19-FA82-45EC-A1F7-5BFC2FC09061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6860F19-FA82-45EC-A1F7-5BFC2FC09061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

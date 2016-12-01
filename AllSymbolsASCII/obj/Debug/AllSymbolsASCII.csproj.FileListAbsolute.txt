@@ -1,0 +1,6 @@
+D:\Программирование\C#\Study\Projects\Study\AllSymbolsASCII\bin\Debug\AllSymbolsASCII.exe.config
+D:\Программирование\C#\Study\Projects\Study\AllSymbolsASCII\bin\Debug\AllSymbolsASCII.exe
+D:\Программирование\C#\Study\Projects\Study\AllSymbolsASCII\bin\Debug\AllSymbolsASCII.pdb
+D:\Программирование\C#\Study\Projects\Study\AllSymbolsASCII\obj\Debug\AllSymbolsASCII.csprojResolveAssemblyReference.cache
+D:\Программирование\C#\Study\Projects\Study\AllSymbolsASCII\obj\Debug\AllSymbolsASCII.exe
+D:\Программирование\C#\Study\Projects\Study\AllSymbolsASCII\obj\Debug\AllSymbolsASCII.pdb

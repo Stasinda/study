@@ -1,0 +1,6 @@
+D:\Программирование\C#\Study\Projects\Study\Calculator (args)\bin\Debug\Calc.exe.config
+D:\Программирование\C#\Study\Projects\Study\Calculator (args)\bin\Debug\Calc.exe
+D:\Программирование\C#\Study\Projects\Study\Calculator (args)\bin\Debug\Calc.pdb
+D:\Программирование\C#\Study\Projects\Study\Calculator (args)\obj\Debug\Calc.exe
+D:\Программирование\C#\Study\Projects\Study\Calculator (args)\obj\Debug\Calc.pdb
+D:\Программирование\C#\Study\Projects\Study\Calculator (args)\obj\Debug\Calculator (args).csprojResolveAssemblyReference.cache
